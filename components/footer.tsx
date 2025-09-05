@@ -21,19 +21,19 @@ export function Footer() {
     {
       name: "Instagram",
       icon: <Instagram className="h-5 w-5" />,
-      href: "https://instagram.com/sawari.luxe",
+      href: "https://www.instagram.com/sawari.ae?igsh=djBxOWhkaWdkeGI5",
       color: "hover:text-pink-400",
     },
     {
       name: "Facebook",
       icon: <Facebook className="h-5 w-5" />,
-      href: "https://facebook.com/sawari.luxe",
+      href: "https://www.facebook.com/profile.php?id=61579707782234",
       color: "hover:text-blue-400",
     },
     {
       name: "LinkedIn",
       icon: <Linkedin className="h-5 w-5" />,
-      href: "https://linkedin.com/company/sawari-luxe",
+      href: "https://www.linkedin.com/company/9747374/admin/dashboard/",
       color: "hover:text-blue-500",
     },
     {
